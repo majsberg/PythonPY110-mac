@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'app_weather',
     'store',
     'app_login',
+    'app_wishlist',
 ]
 
 MIDDLEWARE = [
